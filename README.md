@@ -1,2 +1,3 @@
-# lab6-sds
- Threat Hunting - SDS
+# LAB 6 - Security Data Science
+ Threat Hunting
+
